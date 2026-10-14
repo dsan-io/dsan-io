@@ -6,7 +6,7 @@
 
 * 🔭 I’m currently student on **Virtual University of the State of Guanajuato (UVEG)**
 
-* ☕️ I’m currently learning **JavaScript and Java + Spring Boot**
+* ☕️ I’m currently learning **JavaScript**
 
 * 📫 How to reach me: [![Twitter](https://img.shields.io/twitter/follow/Sinonimouss?style=social)](https://twitter.com/sinonimouss) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardosan/)](https://www.linkedin.com/in/leonardosan/) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/bitr0m)](https://github.com/bitr0m) [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sinonimouss@gmail.com) [![Steam](https://img.shields.io/badge/-Steam-darkblue?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/id/Sinonimouss/)](https://steamcommunity.com/id/Sinonimouss/)
 * 👾 More about me: **I like to listen to music 🎧; watch series 🎬 and movies 🎥 and I love video games 🎮**
